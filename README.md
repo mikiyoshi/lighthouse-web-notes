@@ -14,4 +14,6 @@ This repository contains all of the notes taken by Miki for the Lighthouse Labs 
 
 * [Week 1](/Week_1)
   * [Day 1](/Week_1/Day_1)
+
+
 taken by [Miki](https://github.com/mikiyoshi)
