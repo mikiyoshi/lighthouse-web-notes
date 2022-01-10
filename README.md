@@ -1,4 +1,4 @@
-# Miki's Notes
+# MikiK's Notes
 
 ## Summary
 
